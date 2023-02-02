@@ -24,3 +24,5 @@ To install the required packages, run the following command in your terminal/com
 
 This script is limited by the data available in the PokéAPI, so it may not include all Pokémon names. However, it also searches a `pokes.txt` file that can be edited to include additional Pokémon names not found in the PokéAPI.
 
+## Note
+This script uses the os and time modules to clear the console, so it may not work on all operating systems.
